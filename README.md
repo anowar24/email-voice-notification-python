@@ -9,5 +9,10 @@ Install ggts by running below codein terminal
  
 Change username and password in the code.
 
+Go to main.py containing Directory
+Run main.py
+ 
+ python main.py
+
 
 Use at your own risk and as much as you want.
