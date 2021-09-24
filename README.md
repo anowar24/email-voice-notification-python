@@ -14,5 +14,6 @@ Run main.py
  
  python main.py
 
+Use Ctrl-c to exit in windows
 
 Use at your own risk and as much as you want.
